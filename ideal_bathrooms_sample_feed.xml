@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>Ideal Bathrooms Sample Product Feed</title>
+<link>https://www.idealbathrooms.com</link>
+<description>Sample product feed for Leadoo AI Product Recommender demo</description>
+<item>
+  <g:id>02541</g:id>
+  <g:title>Carron Highgate Carronite 1750x800mm Freestanding Bath (overflow only)</g:title>
+  <g:description>Octo shaped freestanding bath in Carronite with a 265 litre capacity, no tap holes and a 40 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/baths/free-standing-baths/02541-65812</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/65812_1_640x640.jpg</g:image_link>
+  <g:price>2852.40 GBP</g:price>
+  <g:brand>Carron</g:brand>
+  <g:product_type>Baths &gt; Freestanding Baths</g:product_type>
+  <g:color>White</g:color>
+  <g:mpn>02541</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Contemporary</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>1750 x 800 x 630mm</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>freestanding;statement;luxury;large bathroom</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Contemporary</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>freestanding;statement;luxury;large bathroom</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.HC.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller; Adjustable Handset / Kit &amp; Fixed Ceiling Head HP - Chrome</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset plus ceiling drencher) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chcu-71479</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71479_1_640x640.jpg</g:image_link>
+  <g:price>1454.45 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.HC.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.HC.P</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller; Adjustable Handset / Kit &amp; Fixed Ceiling Head LP - Chrome</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset plus ceiling drencher) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chcp-71475</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71475_1_640x640.jpg</g:image_link>
+  <g:price>1596.16 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.HC.P</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>Low pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>Low pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.H.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller &amp; Adjustable Handset HP - Chrome</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset only) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chu-71463</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71463_1_640x640.jpg</g:image_link>
+  <g:price>1141.18 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.H.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.H.P</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller &amp; Adjustable Handset LP - Chrome</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset only) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chp-71459</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71459_1_640x640.jpg</g:image_link>
+  <g:price>1281.05 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.H.P</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>Low pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>Low pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2MB.H.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller &amp; Adjustable Handset HP - Matt Black</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset only) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2mbhu-71465</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71465_1_640x640.jpg</g:image_link>
+  <g:price>1255.30 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Matt Black</g:color>
+  <g:mpn>S2MB.H.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2BB.H.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller &amp; Adjustable Handset HP - Brushed Brass</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset only) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2bbhu-71462</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71462_1_640x640.jpg</g:image_link>
+  <g:price>1312.36 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Brushed Brass</g:color>
+  <g:mpn>S2BB.H.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2GG.H.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller &amp; Adjustable Handset HP - Gunmetal Grey</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset only) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2gghu-71464</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71464_1_640x640.jpg</g:image_link>
+  <g:price>1369.42 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Gunmetal Grey</g:color>
+  <g:mpn>S2GG.H.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.HB.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller; Adjustable Handset / Kit &amp; Bath Filler HP - Chrome</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset plus bath filler) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chbu-71471</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71471_1_640x640.jpg</g:image_link>
+  <g:price>1435.81 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.HB.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2MB.HB.U</g:id>
+  <g:title>Aqualisa S2 Smart Shower w/ Controller; Adjustable Handset / Kit &amp; Bath Filler HP - Matt Black</g:title>
+  <g:description>App and voice controlled thermostatic smart shower (handset plus bath filler) with HD temperature display, personal user profiles, 12 colour mood lighting and a 5 year guarantee.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2mbhbu-71473</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71473_1_640x640.jpg</g:image_link>
+  <g:price>1579.39 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Complete Showers &gt; Smart Showers</g:product_type>
+  <g:color>Matt Black</g:color>
+  <g:mpn>S2MB.HB.U</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>High pressure</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart home;app control;Alexa;Google;family friendly</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_2>High pressure</g:custom_label_2>
+  <g:custom_label_3>smart home;app control;Alexa;Google;family friendly</g:custom_label_3>
+</item>
+<item>
+  <g:id>S2C.R</g:id>
+  <g:title>Aqualisa S2 Smart Shower Remote - Chrome</g:title>
+  <g:description>Wireless remote to start the Aqualisa S2 smart shower from outside the cubicle.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2cr-71499</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/71499_1_640x640.jpg</g:image_link>
+  <g:price>166.42 GBP</g:price>
+  <g:brand>Aqualisa</g:brand>
+  <g:product_type>Showering &gt; Shower Accessories</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>S2C.R</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>accessory;add on;smart home</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>accessory;add on;smart home</g:custom_label_3>
+</item>
+<item>
+  <g:id>1.1746.821</g:id>
+  <g:title>Mira Sport Manual Single Outlet 9.0kW Electric Shower</g:title>
+  <g:description>Electric shower with separate power and temperature controls, a 120mm four spray handset and Mira's scale reducing and flow monitoring safety technology.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/electric-showers/11746821-40894</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/40894_1_640x640.jpg</g:image_link>
+  <g:price>423.50 GBP</g:price>
+  <g:brand>Mira</g:brand>
+  <g:product_type>Showering &gt; Electric Showers</g:product_type>
+  <g:color>White</g:color>
+  <g:mpn>1.1746.821</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>water_pressure</g:attribute_name><g:attribute_value>Mains fed (0.7 to 5 bar)</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom; En suite</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>budget;quick install;no hot water tank needed;9kW</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom; En suite</g:custom_label_1>
+  <g:custom_label_2>Mains fed (0.7 to 5 bar)</g:custom_label_2>
+  <g:custom_label_3>budget;quick install;no hot water tank needed;9kW</g:custom_label_3>
+</item>
+<item>
+  <g:id>1.1605.167</g:id>
+  <g:title>Mira Response Plastic Shower Hose 1.25m - Chrome</g:title>
+  <g:description>Replacement 1.25m shower hose, a common add on for Mira electric showers.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/shower-accessories/11605167-14068</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/14068_1_640x640.jpg</g:image_link>
+  <g:price>44.74 GBP</g:price>
+  <g:brand>Mira</g:brand>
+  <g:product_type>Showering &gt; Shower Accessories</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>1.1605.167</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>1.25m</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>accessory;spare;add on</g:attribute_value></g:product_detail>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>accessory;spare;add on</g:custom_label_3>
+</item>
+<item>
+  <g:id>1.1605.168</g:id>
+  <g:title>Mira RF4 Shower Hose 1.75m - Chrome</g:title>
+  <g:description>Longer 1.75m replacement shower hose for Mira showers.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/showering/shower-accessories/11605168-14105</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/14105_1_640x640.jpg</g:image_link>
+  <g:price>51.61 GBP</g:price>
+  <g:brand>Mira</g:brand>
+  <g:product_type>Showering &gt; Shower Accessories</g:product_type>
+  <g:color>Chrome</g:color>
+  <g:mpn>1.1605.168</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>1.75m</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>accessory;spare;add on</g:attribute_value></g:product_detail>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>accessory;spare;add on</g:custom_label_3>
+</item>
+<item>
+  <g:id>146.350.01.1</g:id>
+  <g:title>Geberit AquaClean Alba Rimless Shower Toilet, Wall Hung WC</g:title>
+  <g:description>Wall hung rimless shower toilet with WhirlSpray cleaning, adjustable water temperature, TurboFlush, soft close seat, remote control and Geberit Home app control.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/toilets/shower-toilets/146350011-39761</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/39761_1_640x640.jpg</g:image_link>
+  <g:price>1320.00 GBP</g:price>
+  <g:brand>Geberit</g:brand>
+  <g:product_type>Toilets &gt; Shower Toilets</g:product_type>
+  <g:color>White</g:color>
+  <g:mpn>146.350.01.1</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Smart; Minimalist</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>375 x 565 x 405mm (incl. seat)</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom; En suite</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>smart toilet;Japanese toilet;wellbeing;wall hung;rimless</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Smart; Minimalist</g:custom_label_0>
+  <g:custom_label_1>Bathroom; En suite</g:custom_label_1>
+  <g:custom_label_3>smart toilet;Japanese toilet;wellbeing;wall hung;rimless</g:custom_label_3>
+</item>
+<item>
+  <g:id>115.882.11.1</g:id>
+  <g:title>Geberit Sigma20 Dual Flush Plate - White &amp; Matt White</g:title>
+  <g:description>Dual flush plate for Geberit concealed cisterns, often paired with wall hung WCs.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/toilets/flush-plates/115882111-26636</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/26636_1_640x640.jpg</g:image_link>
+  <g:price>156.59 GBP</g:price>
+  <g:brand>Geberit</g:brand>
+  <g:product_type>Toilets &gt; Flush Plates</g:product_type>
+  <g:color>White / Matt White</g:color>
+  <g:mpn>115.882.11.1</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Minimalist</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>accessory;wall hung;add on</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Minimalist</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>accessory;wall hung;add on</g:custom_label_3>
+</item>
+<item>
+  <g:id>147.040.00.1</g:id>
+  <g:title>Geberit AquaClean 125ml Descaling Agent</g:title>
+  <g:description>Descaling agent for maintaining Geberit AquaClean shower toilets.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/toilets/toilet-accessories/147040001-26768</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/26768_1_640x640.jpg</g:image_link>
+  <g:price>11.60 GBP</g:price>
+  <g:brand>Geberit</g:brand>
+  <g:product_type>Toilets &gt; Toilet Accessories</g:product_type>
+  <g:mpn>147.040.00.1</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>125ml</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>maintenance;add on;consumable</g:attribute_value></g:product_detail>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>maintenance;add on;consumable</g:custom_label_3>
+</item>
+<item>
+  <g:id>501.163.00.1</g:id>
+  <g:title>Geberit VariForm Cabinet for Lay On Basin, One Drawer, 750mm, Oak</g:title>
+  <g:description>Single drawer 750mm wide oak cabinet designed for a VariForm lay on basin.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/furniture/console-units/501163001-34083</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/34083_1_640x640.jpg</g:image_link>
+  <g:price>1309.14 GBP</g:price>
+  <g:brand>Geberit</g:brand>
+  <g:product_type>Furniture &gt; Console Units</g:product_type>
+  <g:color>Oak</g:color>
+  <g:mpn>501.163.00.1</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Natural; Scandi</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>750mm wide</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>wood;storage;premium</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Natural; Scandi</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>wood;storage;premium</g:custom_label_3>
+</item>
+<item>
+  <g:id>SWFU088</g:id>
+  <g:title>Swan Pagoda 800mm Basin Unit w/ 2 Drawers &amp; Solid Wood Handle - Light Oak</g:title>
+  <g:description>Wall hung 800mm vanity unit with two drawers and a solid wood handle in a light oak finish.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/furniture/wall-hung-vanity-units/swfu088-64992</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/64992_1_640x640.jpg</g:image_link>
+  <g:price>561.00 GBP</g:price>
+  <g:brand>Swan</g:brand>
+  <g:product_type>Furniture &gt; Wall Hung Vanity Units</g:product_type>
+  <g:color>Light Oak</g:color>
+  <g:mpn>SWFU088</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Japandi; Natural</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>800mm wide</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom; En suite</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>wall hung;storage;wood effect</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Japandi; Natural</g:custom_label_0>
+  <g:custom_label_1>Bathroom; En suite</g:custom_label_1>
+  <g:custom_label_3>wall hung;storage;wood effect</g:custom_label_3>
+</item>
+<item>
+  <g:id>SWFU090</g:id>
+  <g:title>Swan Pagoda 1600mm x 350mm Tall Unit w/ 1 Door &amp; Solid Wood Handle - Light Oak</g:title>
+  <g:description>Tall single door storage unit to match the Swan Pagoda vanity range.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/furniture/cabinets-storage/swfu090-64990</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/64990_1_640x640.jpg</g:image_link>
+  <g:price>468.00 GBP</g:price>
+  <g:brand>Swan</g:brand>
+  <g:product_type>Furniture &gt; Cabinets &amp; Storage</g:product_type>
+  <g:color>Light Oak</g:color>
+  <g:mpn>SWFU090</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Japandi; Natural</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>1600 x 350mm</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>storage;matching range;tall unit</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Japandi; Natural</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>storage;matching range;tall unit</g:custom_label_3>
+</item>
+<item>
+  <g:id>SWFU011</g:id>
+  <g:title>Swan Glebe 810mm x 480mm 1 Tap Hole Ceramic Washbasin</g:title>
+  <g:description>Ceramic washbasin with a single tap hole, suitable for pairing with a vanity unit.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/basins/basin-only/swfu011-42925</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/42925_1_640x640.jpg</g:image_link>
+  <g:price>166.00 GBP</g:price>
+  <g:brand>Swan</g:brand>
+  <g:product_type>Basins &gt; Basin Only</g:product_type>
+  <g:color>White</g:color>
+  <g:mpn>SWFU011</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Classic</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>810 x 480mm</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>ceramic;basin;1 tap hole</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Classic</g:custom_label_0>
+  <g:custom_label_1>Bathroom</g:custom_label_1>
+  <g:custom_label_3>ceramic;basin;1 tap hole</g:custom_label_3>
+</item>
+<item>
+  <g:id>SWBR050</g:id>
+  <g:title>Swan Linford Electroplated Mini Mono Basin Mixer w/ Pop Up Waste - Black</g:title>
+  <g:description>Compact mono basin mixer in black, supplied with a pop up waste.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/taps/basin-taps/swbr050-42826</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/42826_1_640x640.jpg</g:image_link>
+  <g:price>57.00 GBP</g:price>
+  <g:brand>Swan</g:brand>
+  <g:product_type>Taps &gt; Basin Taps</g:product_type>
+  <g:color>Black</g:color>
+  <g:mpn>SWBR050</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>Mini</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom; Cloakroom</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>black tap;budget;small basin</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom; Cloakroom</g:custom_label_1>
+  <g:custom_label_3>black tap;budget;small basin</g:custom_label_3>
+</item>
+<item>
+  <g:id>SWTW023</g:id>
+  <g:title>Swan Campbell Straight 1200 x 600mm Towel Warmer - Matt Black</g:title>
+  <g:description>Straight ladder towel warmer in matt black.</g:description>
+  <g:link>https://www.idealbathrooms.com/products/towel-warmers/towel-warmers/swtw023-43060</g:link>
+  <g:image_link>https://www.idealbathrooms.com/images/content/products/43060_1_640x640.jpg</g:image_link>
+  <g:price>99.00 GBP</g:price>
+  <g:brand>Swan</g:brand>
+  <g:product_type>Towel Warmers</g:product_type>
+  <g:color>Matt Black</g:color>
+  <g:mpn>SWTW023</g:mpn>
+  <g:condition>new</g:condition>
+  <g:product_detail><g:attribute_name>finish_style</g:attribute_name><g:attribute_value>Modern</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>dimensions</g:attribute_name><g:attribute_value>1200 x 600mm</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>room</g:attribute_name><g:attribute_value>Bathroom; En suite</g:attribute_value></g:product_detail>
+  <g:product_detail><g:attribute_name>tags</g:attribute_name><g:attribute_value>heated towel rail;black;budget</g:attribute_value></g:product_detail>
+  <g:custom_label_0>Modern</g:custom_label_0>
+  <g:custom_label_1>Bathroom; En suite</g:custom_label_1>
+  <g:custom_label_3>heated towel rail;black;budget</g:custom_label_3>
+</item>
+</channel>
+</rss>
